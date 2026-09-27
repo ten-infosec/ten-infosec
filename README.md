@@ -25,7 +25,7 @@ I learn by building things from scratch, breaking them, and documenting what I f
 
 ## 🗺 Learning Roadmap
 
-- [PQC Curriculum, Stage 1–9](https://github.com/ten-infosec/rsa-from-scratch/blob/main/notes/pqc-roadmap.md) (in Korean)
+- [PQC Curriculum, Stage 1–9](https://github.com/ten-infosec/ten-infosec/blob/main/roadmap.md) (in Korean)
 - [Quantum Computing Curriculum, Q1–Q6](https://github.com/ten-infosec/qiskit-study/blob/main/docs/curriculum.md) (in Korean)
 
 ## 🛠 Tools
