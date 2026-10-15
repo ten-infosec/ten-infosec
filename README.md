@@ -4,6 +4,7 @@ Aspiring **Healthcare AI Developer** who wants to turn medical data into service
 I also study **information security** and **Post-Quantum Cryptography (PQC)**, because medical data needs to be both useful and safe.
 I learn by building things from scratch, breaking them, and documenting what I find.
 
+
 ## 🔭 Currently
 
 - 🏥 **OZ Coding School Healthcare AI Bootcamp**: data analysis → ML/DL → CV/NLP → Web
