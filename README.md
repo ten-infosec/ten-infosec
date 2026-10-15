@@ -10,7 +10,8 @@ I learn by building things from scratch, breaking them, and documenting what I f
 - 🩻 Chest X-ray pneumonia classification (ResNet18 fine-tuning, Grad-CAM)
 - 🧪 Building a **Medical AI Demo**: Bootstrap + FastAPI + ML models
 - 🔐 PQC curriculum and quantum computing (Qiskit 2.x) on the side
-
+- ⛓ Blockchain: deposit token smart contracts with Solidity and Hardhat (KISA BlockChain Meetup Day 2026)
+  
 ## 📂 Projects
 
 ### Healthcare AI
@@ -27,7 +28,11 @@ I learn by building things from scratch, breaking them, and documenting what I f
   + Built quantum gates as matrices with NumPy and verified them against Qiskit
 - **[linux-study](https://github.com/ten-infosec/linux-study)**
   Linux self-study notes and curriculum
-
+  
+### Security, PQC & Blockchain
+- **Deposit Token Workshop** (KISA BCMD 2026, in progress)
+  Solidity smart contracts for a bank deposit token: KYC allowlist with role-based access control (OpenZeppelin AccessControl), audit events, and Hardhat unit tests
+  
 ## 🗺 Learning Roadmap
 
 - [PQC Curriculum, Stage 1–9](https://github.com/ten-infosec/ten-infosec/blob/main/roadmap.md) (in Korean)
@@ -37,7 +42,7 @@ I learn by building things from scratch, breaking them, and documenting what I f
 
 **Language** Python · SQL · HTML · CSS · JavaScript
 **Data & AI** Pandas · NumPy · scikit-learn · TensorFlow/Keras · PyTorch · Hugging Face
-**Security & Quantum** Qiskit · Wireshark
+**Security, Quantum & Blockchain** Qiskit · Wireshark · Solidity · Hardhat
 **Tools** Git · GitHub · Linux (WSL2) · VS Code · Google Colab
 
 ## 🌏 Languages
