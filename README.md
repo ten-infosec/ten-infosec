@@ -16,9 +16,14 @@ I learn by building things from scratch, breaking them, and documenting what I f
 ## 📂 Projects
 
 ### Healthcare AI
-- **[healthcare-ai-bootcamp](https://github.com/ten-infosec/healthcare-ai-bootcamp)**
-  Bootcamp missions and notes: statistical analysis, RNN/Seq2Seq/Transformer, BERT · GPT · CLIP · BLIP on medical images (VQA-RAD)
 
+- 📁 **[Portfolio](https://ten-infosec.github.io)** — 프로젝트별 문제 해결 과정(AS-IS → TO-BE) 정리
+- [dacon-chest-xray-pneumonia](https://github.com/ten-infosec/dacon-chest-xray-pneumonia) Chest X-ray pneumonia classification · ResNet18 full fine-tuning, leaderboard 0.747 → 0.941 · traced the val-vs-test gap to image shape differences · Grad-CAM implemented from scratch
+- **Infertility pregnancy-success prediction** (DACON team hackathon, **1st place**) · structural missing-data analysis, baseline pipeline, submission bug fixes
+- [Oz_codingSchool](https://github.com/ten-infosec/Oz_codingSchool) Pneumonia patient back-office (team lead) · FastAPI, JWT auth, MySQL, Git flow with PR reviews
+- [healthcare-ai-bootcamp](https://github.com/ten-infosec/healthcare-ai-bootcamp) Bootcamp missions and notes: statistical analysis, RNN/Seq2Seq/Transformer, BERT · GPT · CLIP · BLIP on medical images (VQA-RAD)
+
+- 
 ### Security, PQC & Blockchain
 - **[rsa-from-scratch](https://github.com/ten-infosec/rsa-from-scratch)**
   Educational RSA implemented from basic number theory: key generation, factoring attack, correctness proof, and attack-time measurement
